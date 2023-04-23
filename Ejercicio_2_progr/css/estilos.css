@@ -1,0 +1,26 @@
+body {
+	font-family: Arial;
+	background-color: rgb(184, 197, 218);
+}
+
+h1 {
+	text-align: center;
+}
+
+article {
+	margin: auto;
+	width: 20%;
+	padding: 50px;
+	text-align: center;
+	background-color: rgb(207, 173, 221);
+	border-radius: 30px;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+textarea {
+	border-radius: 1px;
+	border: 1px solid #ccc;
+	padding: 1px;
+	width: 80%;
+	padding: 8px;
+}	
