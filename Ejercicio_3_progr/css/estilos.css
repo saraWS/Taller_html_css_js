@@ -1,0 +1,28 @@
+h1 {
+	text-align: center;
+	margin: auto;
+	width: 20%;
+	padding: 15px;
+	background-color: rgb(163, 201, 156);
+	border-radius: 20px;
+}
+
+body {
+	font-family: Arial;
+	background-color: rgb(240, 199, 199);
+}
+
+article {
+	margin: auto;
+	width: 50%;
+	padding: 20px;
+	text-align: center;
+	background-color: rgb(163, 201, 156);
+	border-radius: 30px;
+}
+
+p {
+	text-align: center;
+	margin-top: 20px;
+	font-size: 20px;
+}
